@@ -22,10 +22,9 @@
     A beautiful Image Gallery with Drag and Drop feature
     <br />
 
-[**Explore the docs »**](https://github.com/webdevsk/Image-Gallery-DND)
 
 [View Demo](https://webdevsk.github.io/image-gallery/)
-· [Report Bug](https://github.com/webdevsk/image-gallery/issues)
+· [Report Bug](https://github.com/KAZI-SAMIR/image-gallery/issues)
 · [Request Feature](https://github.com/KAZI-SAMIR/Image-Gallery/issues)
  
   </p>
@@ -68,7 +67,7 @@
 
 ### Built With
 
-[![TailwindCSS][TailwindCSS]][Tailwind-url]  
+TailwindCSS 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -147,8 +146,8 @@ Contributions are what make the open source community such an amazing place to l
 
 ## Contact
 
-[![Follow on GitHub][GitHub]](https://github.com/KAZI-SAMIR)
-[![Follow on Linkedin][Linkedin]][Linkedin-url]
+[!GitHub](https://github.com/KAZI-SAMIR)
+![Linkedin-url]
 
 Project Link: [https://github.com/KAZI-SAMIR/image-gallery](https://github.com/KAZI-SAMIR/image-gallery)
 
