@@ -61,7 +61,6 @@
 </div>
 <br/>
 
-#project_description
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -146,8 +145,8 @@ Contributions are what make the open source community such an amazing place to l
 
 ## Contact
 
-[!GitHub](https://github.com/KAZI-SAMIR)
-![Linkedin-url]
+[GitHub](https://github.com/KAZI-SAMIR)
+
 
 Project Link: [https://github.com/KAZI-SAMIR/image-gallery](https://github.com/KAZI-SAMIR/image-gallery)
 
