@@ -23,7 +23,7 @@
     <br />
 
 
-[View Demo](https://webdevsk.github.io/image-gallery/)
+[View Demo](https://kazi-samir.github.io/image-gallery-/)
 · [Report Bug](https://github.com/KAZI-SAMIR/image-gallery/issues)
 · [Request Feature](https://github.com/KAZI-SAMIR/Image-Gallery/issues)
  
@@ -56,7 +56,7 @@
 
 <div align="center">
 
-[![Product snapshot](github_assets/snapshot.png)](https://webdevsk.github.io/Image-Gallery-DND/)
+
 
 </div>
 <br/>
@@ -75,7 +75,7 @@ TailwindCSS
 
 ## Getting Started
 
-🌐 The site is already live at: [https://KAZI-SAMIR.github.io/image-gallery/](https://webdevsk.github.io/image-gallery/)
+🌐 The site is already live at: [https://kazi-samir.github.io/image-gallery-/](https://kazi-samir.github.io/image-gallery-/)
 
 OR
 
@@ -98,7 +98,7 @@ OR
 1. Clone the repo
 
    ```sh
-   git clone https://github.com/webdevsk/Image-Gallery-DND.git
+   git clone https://github.com/KAZI-SAMIR/image-gallery.git
    ```
 
 1. Install NPM packages
