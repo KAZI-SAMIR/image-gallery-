@@ -23,7 +23,7 @@
     <br />
 
 
-[View Demo](https://kazi-samir.github.io/image-gallery-/)
+[View Demo](https://astounding-hummingbird-2ff318.netlify.app/)
 · [Report Bug](https://github.com/KAZI-SAMIR/image-gallery/issues)
 · [Request Feature](https://github.com/KAZI-SAMIR/Image-Gallery/issues)
  
@@ -74,7 +74,7 @@ TailwindCSS
 
 ## Getting Started
 
-🌐 The site is already live at: [https://kazi-samir.github.io/image-gallery-/](https://kazi-samir.github.io/image-gallery-/)
+🌐 The site is already live at: [https://astounding-hummingbird-2ff318.netlify.app/](https://astounding-hummingbird-2ff318.netlify.app/)
 
 OR
 
